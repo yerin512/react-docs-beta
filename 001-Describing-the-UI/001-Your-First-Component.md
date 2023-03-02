@@ -41,7 +41,4 @@ jsx, tsx 화장자는 컴포넌트는 대문자로 시작하게끔 작성을 했
 
 ![image](https://user-images.githubusercontent.com/73337811/222446434-0906a78f-0bc1-45ed-90b5-4a536d4d7a01.png)
 
-
-
-
 ---
