@@ -37,6 +37,8 @@ React에서는 순수 함수를 사용하여 컴포넌트를 구성하는 것이
 저는 주로 js, ts 확장자 파일은 소문자로,( 컴포넌트에서 사용되는 데이터나 함수, 상수 등 ) ex) bcm.js
 jsx, tsx 화장자는 컴포넌트는 대문자로 시작하게끔 작성을 했거든요 ex) BcmCard.tsx
 무슨 이유가 있었나 궁금해서 chatGPT한테 질문했는데 팀내 규칙을 따르라고 하네요
+
+
 ![image](https://user-images.githubusercontent.com/73337811/222446434-0906a78f-0bc1-45ed-90b5-4a536d4d7a01.png)
 
 
